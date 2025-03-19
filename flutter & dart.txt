@@ -1,0 +1,38 @@
+Introduction of Flutter and Dart language
+
+What is flutter and dart?
+
+let see to know this...
+
+You have listen about flutter and dart or if you have not listen yet so I want to explan about it something in questions and answer.
+
+so we are starting from language
+Q 1: What is meant by "language" in programming?
+
+A 1: Language is deling between browser and computer
+(let me explan it in more detail you know that if you travel to abroad and you want to talk with other language person like british 
+or Arabic speeking person and your mother language is Urdu, Pashto, Punjabi or Sindhi, and you don't know English or Arabic language
+so you need to person which will transfer your talk to Arabic and English same like it programming languages are working
+I mean the human person if want to talk or work from computer or machine he can't work without any programming languages 
+because the machine can't understand human languages and the human also can't talk to machine-like manner.
+so in this step we need for some compiler or transfer which one transfer human talk and needs to machine languages for this task are used "Programming Languages")
+
+Q 2: How many types of Programming languages?
+
+A 2: There are two types of Programming languages:
+ 	i... Low level languages.	ii... Hight level languages
+
+Q 3: What mean of Low level Programming languages?
+
+A 3: The Low level languages in Programming which languages close to machine and these languages very hard to understanding human as compare
+to hight level languages  (like Assembly, C, COBOL, Fortran, Pascal, Ada) .
+
+Q 4: What mean of Low hight Programming languages?
+
+A 4: The Hight level languages in Programming which languages easy to Understand for human
+ (like Python, Java, JavaScript, C++, C#, Ruby, PHP).
+
+Q 5: How many types of running environment?
+
+A 5: The  running environment included on two types too:
+	i... Client Side working.	ii... Server Side working.
