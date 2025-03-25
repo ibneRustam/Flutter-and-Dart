@@ -30,10 +30,10 @@ void main() {
 
 
 
-output(result after running this code)
+// output(result after running this code)
 
-bismillah
-DAQK
-Abdul Qadeer
+// bismillah
+// DAQK
+// Abdul Qadeer
 
   

@@ -24,9 +24,9 @@ void main() {
 
 
 
-output (result after running this code)
+// output (result after running this code)
 
-Student Name : A.Qadeer
-Student Roll Numer : 4
-Student height : 6.1
-Student Attendance : true
+// Student Name : A.Qadeer
+// Student Roll Numer : 4
+// Student height : 6.1
+// Student Attendance : true
