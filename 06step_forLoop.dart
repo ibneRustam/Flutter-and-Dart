@@ -47,18 +47,18 @@ void main() {
   }
   print("Factorial : $fact");
 
-  // sum of number in loop
+  // sum of number in For loop
 
-  var fact2 = 0;
+  var sum = 0;
   int number2 = 10;
 
   var count2 = 0;
 
-  for (var i = fact2; i <= number2; i++) {
+  for (var i = sum; i <= number2; i++) {
     count1++;
-    fact2 += i;
+    sum += i;
   }
-  print("Factorial of Sum: $fact2");
+  print("Factorial of Sum: $sum");
 
 }
 

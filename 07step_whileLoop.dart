@@ -56,4 +56,20 @@ void main() {
     w++;
   }
   print("Factorial : $fact");
+
+  // submission number in while loop
+
+  var sub = 0;
+  int number1 = 10;
+
+  var count2 = 0;
+
+  var e = sub;
+  while (e <= number1) {
+    count2++;
+    sub += e;
+    e++;
+  }
+    print("Submission No : $sub");
+
 }
